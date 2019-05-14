@@ -1,0 +1,7 @@
+name: simple
+state:
+  repo: test
+environments:
+  - dev
+  - staging
+  - production
